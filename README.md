@@ -1,0 +1,1 @@
+# SBOM-RUBY-PUBLIC
